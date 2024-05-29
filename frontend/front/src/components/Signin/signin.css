@@ -1,0 +1,87 @@
+ /* body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1567537766/content-items/003/241/858/Mockup_Op11-original.png?1567537766');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ } */
+
+ .login {
+    background-image: url('https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1567537766/content-items/003/241/858/Mockup_Op11-original.png?1567537766');
+    background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     padding: 20px;
+     min-height: 100vh;
+  }
+   
+  .login-main {
+     background-color: rgb(130, 147, 196);
+     padding: 30px;
+     max-width: 400px;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(1, 1, 1, 0.1);
+     margin-top: 80px;
+     margin-left: 200px;
+  }
+  .login-main2 {
+    background-color: rgb(130, 147, 196);
+    padding: 30px;
+    max-width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(1, 1, 1, 0.1);
+    margin-top: 50px;
+    margin-left: 200px;
+ }
+ .head{
+    padding: 20px;
+    font-weight: bold;
+    
+ }
+  form {
+    display: flex;
+    flex-direction: column;
+ 
+ }
+ 
+ label {
+    margin-bottom: 8px;
+    font-weight: 600;
+ }
+ 
+  input {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 20px;
+    
+ }
+ 
+ 
+ 
+ 
+ .checkbox{
+    color:blueviolet;
+    margin: 10px;
+ }
+ 
+  .submit {
+    background-color: grey;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    margin-top: 10px ;
+  }
+   
+  .submit:hover {
+     background-color: rgb(135, 176, 222);
+  }
+  
+ 
+ 
